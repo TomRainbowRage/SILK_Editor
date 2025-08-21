@@ -1,0 +1,48 @@
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\SILK _ EDITOR.exe
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\SILK _ EDITOR.deps.json
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\SILK _ EDITOR.runtimeconfig.json
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\SILK _ EDITOR.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\SILK _ EDITOR.pdb
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\ImGui.NET.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Core.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.GLFW.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Input.Common.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Input.Desktop.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Input.Extensions.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Input.Glfw.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Maths.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.OpenAL.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.OpenGL.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.OpenGL.Extensions.ImGui.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Vulkan.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Vulkan.Extensions.KHR.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Windowing.Common.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Windowing.Desktop.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\Silk.NET.Windowing.Glfw.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\linux-arm\native\libglfw.so.3
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\linux-arm64\native\libglfw.so.3
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\linux-x64\native\libglfw.so.3
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\win-arm64\native\glfw3.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\bin\Debug\net9.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.csproj.AssemblyReference.cache
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.AssemblyInfoInputs.cache
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.AssemblyInfo.cs
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.csproj.CoreCompileInputs.cache
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ E.3256A620.Up2Date
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\refint\SILK _ EDITOR.dll
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.pdb
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\SILK _ EDITOR.genruntimeconfig.cache
+C:\Users\tomra\Documents\RaylibProjects\FPS GAMES\SILK _ EDITOR\obj\Debug\net9.0\ref\SILK _ EDITOR.dll

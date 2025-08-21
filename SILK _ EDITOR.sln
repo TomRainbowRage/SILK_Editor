@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SILK _ EDITOR", "SILK _ EDITOR.csproj", "{EC218F2B-8CA0-EFF5-1DE4-AA985B17A915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC218F2B-8CA0-EFF5-1DE4-AA985B17A915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC218F2B-8CA0-EFF5-1DE4-AA985B17A915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC218F2B-8CA0-EFF5-1DE4-AA985B17A915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC218F2B-8CA0-EFF5-1DE4-AA985B17A915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455F74CF-32C9-4BF4-977F-2F50D233623A}
+	EndGlobalSection
+EndGlobal
